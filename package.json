@@ -23,7 +23,7 @@
     "clsx": "^2.1.1",
     "cookie": ">=0.7.0",
     "docusaurus-theme-github-codeblock": "^2.0.2",
-    "path-to-regexp": ">=8.0.0",
+    "path-to-regexp": ">=8.4.2",
     "prism-react-renderer": "^2.4.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -33,7 +33,7 @@
     "@docusaurus/types": "^3.8.0",
     "cookie": ">=0.7.0",
     "estree-util-value-to-estree": ">=3.3.3",
-    "path-to-regexp": ">=8.0.0",
+    "path-to-regexp": ">=8.4.2",
     "webpack-dev-server": ">= 5.2.1"
   },
   "overrides": {
